@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on  web development project.<br>👯 I’m looking to collaborate with people who are curious to learn things.<br>🌱 I’m currently learning Web development, DSA with java..<br>⚡ Fun fact Curious to learn new things.
+<h1> Hi👋, I'm Durpat Singh Balayar  </h1>
+<hr>
+<h3> A passionate Web Developer from India</h3>
+
+[![](https://visitcount.itsvg.in/api?id=sushil8848d&icon=1&color=0)](https://visitcount.itsvg.in)
+
+🔭 I’m currently working on  web development project.<br>👯 I’m looking to collaborate with people who are good at development.<br>🌱 I’m currently learning Web development, DSA with java..<br>⚡ Fun fact expert at cooking food, listening musics.
 
 
 ## 🌐 Socials:
@@ -19,6 +24,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sushil8848d&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sushil8848d&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
