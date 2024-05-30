@@ -1,18 +1,31 @@
-<h1>Hi✋,My self Durpat Singh</h1>
-<img src="https://scontent.fblr22-1.fna.fbcdn.net/v/t39.30808-6/358447052_1465526334201831_7715231751870673793_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dij51BHiqdcAX-i0Jce&_nc_ht=scontent.fblr22-1.fna&oh=00_AfBjFZEKZWQ3PbcUHk1Djkh2UowTGJDjFpYhagdImjd18Q&oe=64EB0396"height="150">
-<hr>
-<p><b>Fascinate to learn coding💻</b></p>
--I'm currently learning web development
-<h2>Connect with me:</h2>
-<br>
-<a href="https://www.linkedin.com/in/durpat-singh-balayar-956249242/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"height="100">
-<a href="https://www.instagram.com/s_u_s_h_i_l_20_58/"><img src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg"height="100">
-<a href="https://www.facebook.com/profile.php?id=100022334344168"><img src="https://www.shutterstock.com/image-vector/surabaya-indonesia-march-19-2023-260nw-2277155099.jpg"height="100">
-<hr>
-<h2>Langauge and Tools:👇👇</h2>
-<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"height="100">
-<img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png"height="100">
-<img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg"height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"height="100">
+<h1 align="center">Hi 👋, I'm Durpat Singh Balayar</h1>
+<h3 align="center">A passionate web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil8848d&label=Profile%20views&color=0e75b6&style=flat" alt="sushil8848d" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushil8848d" alt="sushil8848d" /></a> </p>
+
+- 🔭 I’m currently working on **front-end project**
+
+- 🌱 I’m currently learning **web development**
+
+- 📫 How to reach me **durpatbalayar2@gmail.com**
+
+- ⚡ Fun fact **I am fun of listening music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/durpat singh balayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durpat singh balayar" height="30" width="40" /></a>
+<a href="https://fb.com/durpat singh balayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="durpat singh balayar" height="30" width="40" /></a>
+<a href="https://instagram.com/s_u_s_h_i_l_20_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_s_h_i_l_20_58" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codejourneywithdurpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codejourneywithdurpat" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil8848d&show_icons=true&locale=en&layout=compact" alt="sushil8848d" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushil8848d&show_icons=true&locale=en" alt="sushil8848d" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil8848d&" alt="sushil8848d" /></p>
