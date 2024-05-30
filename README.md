@@ -2,7 +2,9 @@
 <hr>
 <h3> A passionate Web Developer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=sushil8848d&icon=1&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sushil8848d&label=Profile%20Views&color=2&icon=5&pretty=false" height="40px"  />
+</a>
 
 🔭 I’m currently working on  web development project.<br>👯 I’m looking to collaborate with people who are good at development.<br>🌱 I’m currently learning Web development, DSA with java..<br>⚡ Fun fact expert at cooking food, listening musics.
 
